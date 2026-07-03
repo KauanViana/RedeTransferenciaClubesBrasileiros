@@ -21,7 +21,7 @@ blocos_transferencias = wait.until(
     )
 )
 
-with open("transferencias.txt", "w", encoding="utf-8") as arquivo:
+with open("data/raw/transferencias.txt", "w", encoding="utf-8") as arquivo:
 
     # Iterar pelos blocos de transferências desejados
     for i in range(3, len(blocos_transferencias)):

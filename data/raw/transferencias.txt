@@ -137,7 +137,7 @@ Nome: Alex Telles - Clube Destino: Botafogo FR - Clube Origem: Al-Nassr
 Nome: Igor Jesus - Clube Destino: Botafogo FR - Clube Origem: Shabab Al-Ahli
 Nome: Allan - Clube Destino: Botafogo FR - Clube Origem: Al-Wahda
 Nome: Kawan - Clube Destino: Botafogo FR - Clube Origem: Botafogo U23
-Nome: Kayke - Clube Destino: Botafogo FR - Clube Origem: Botafogo U20
+Nome: Kayke Queiroz - Clube Destino: Botafogo FR - Clube Origem: Botafogo U20
 Nome: Serafim - Clube Destino: Botafogo FR - Clube Origem: Botafogo U20
 Nome: Marçal - Clube Destino: Botafogo FR - Clube Origem: Sem clube
 Nome: Yarlen - Clube Destino: Botafogo FR - Clube Origem: Botafogo U20
@@ -244,7 +244,7 @@ Nome: Gabriel Novaes - Clube Destino: RB Bragantino - Clube Origem: Ponte Preta
 Nome: César Haydar - Clube Destino: RB Bragantino - Clube Origem: Deportes Tolima
 Nome: Praxedes - Clube Destino: RB Bragantino - Clube Origem: Vasco da Gama
 Nome: Kevin Lomónaco - Clube Destino: RB Bragantino - Clube Origem: Tigre
-Nome: Thonny  Anderson - Clube Destino: RB Bragantino - Clube Origem: Ituano
+Nome: Thonny Anderson - Clube Destino: RB Bragantino - Clube Origem: Ituano
 Nome: Leandrinho - Clube Destino: RB Bragantino - Clube Origem: Cianorte
 Nome: Alerrandro - Clube Destino: RB Bragantino - Clube Origem: Vitória
 Nome: Werik Popó - Clube Destino: RB Bragantino - Clube Origem: Juventude
@@ -258,7 +258,7 @@ Nome: Alerrandro - Clube Destino: CSKA Moscou - Clube Origem: RB Bragantino
 Nome: Lucas Evangelista - Clube Destino: Palmeiras - Clube Origem: RB Bragantino
 Nome: Jadsom - Clube Destino: Al-Wahda - Clube Origem: RB Bragantino
 Nome: Raul - Clube Destino: Athletico-PR - Clube Origem: RB Bragantino
-Nome: Thonny  Anderson - Clube Destino: Tokushima Vort. - Clube Origem: RB Bragantino
+Nome: Thonny Anderson - Clube Destino: Tokushima Vort. - Clube Origem: RB Bragantino
 Nome: Kevin Lomónaco - Clube Destino: Independiente - Clube Origem: RB Bragantino
 Nome: César Haydar - Clube Destino: Kawasaki Front. - Clube Origem: RB Bragantino
 Nome: Vitinho - Clube Destino: Noroeste - Clube Origem: RB Bragantino
@@ -1010,7 +1010,7 @@ Nome: Gabriel - Clube Destino: Mirassol FC - Clube Origem: Cuiabá
 Nome: Matheus Bianqui - Clube Destino: Mirassol FC - Clube Origem: Coritiba
 Nome: Zé Vitor - Clube Destino: Mirassol FC - Clube Origem: Maringá
 Nome: Edson Carioca - Clube Destino: Mirassol FC - Clube Origem: Goiás
-Nome: Maceió - Clube Destino: Mirassol FC - Clube Origem: Portuguesa
+Nome: Everton Maceió - Clube Destino: Mirassol FC - Clube Origem: Portuguesa
 Nome: Alan Empereur - Clube Destino: Mirassol FC - Clube Origem: Cuiabá
 Nome: João Pedro - Clube Destino: Mirassol FC - Clube Origem: Cruzeiro
 Nome: Rodrigo Andrade - Clube Destino: Mirassol FC - Clube Origem: Vitória

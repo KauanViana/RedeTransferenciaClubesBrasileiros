@@ -66,7 +66,7 @@ def normalizar(nome):
 
 
 # Ler o arquivo de transferências gerado pelo coleta_dados.py
-arquivo = "transferencias.txt"
+arquivo = "data/raw/transferencias.txt"
 
 dados = []
 
@@ -107,13 +107,13 @@ df = df.sort_values(
 
 # Salvar os dados organizados em arquivos CSV e Excel
 df.to_csv(
-    "transferencias_organizadas.csv",
+    "data/processed/transferencias_organizadas.csv",
     index=False,
     encoding="utf-8-sig"
 )
 
 with pd.ExcelWriter(
-    "transferencias_organizadas.xlsx",
+    "data/processed/transferencias_organizadas.xlsx",
     engine="openpyxl"
 ) as writer:
 
